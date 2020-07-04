@@ -1,2 +1,2 @@
 # Boston-Housing-Dataset
-Analysing the Boston Housing Dataset using TensorFlow.
+Applying Linear Regression on the Boston Housing Dataset using TensorFlow and Keras.
